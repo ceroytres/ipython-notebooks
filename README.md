@@ -1,2 +1,2 @@
 # ipython-notebooks
-a set of spiffy ipython notebooks
+a couple of notebooks I wrote when bored... :/
